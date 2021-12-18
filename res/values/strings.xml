@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VNote</string>
+    <string name="submit">ADD</string>
+    <string name="enter_note_here">Enter note here</string>
+</resources>
